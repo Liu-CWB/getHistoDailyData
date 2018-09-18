@@ -4,3 +4,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+
+varname = 
+
+df = pd.read_table("cwb_dy.txt",skiprows = ,delitet_whitw=True)
